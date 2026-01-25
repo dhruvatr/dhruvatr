@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Science and Engineering Student at Dayananda Sagar University Bangalore
+I'm a Computer Science and Engineering Student(AIML) at Dayananda Sagar University Bangalore
 
 
 ## 🌐 Socials:
