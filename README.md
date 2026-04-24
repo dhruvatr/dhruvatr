@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a Computer Science and Engineering Student(AIML) at Dayananda Sagar University.
-Hobbies:Cricket, Bike Enthsiast.
+Hobbies : Cricket, Bike Enthsiast.
 
 
 ## 🌐 Socials:
