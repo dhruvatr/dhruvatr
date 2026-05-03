@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi. I'm Dhruva
 I am a Student at Dayananda Sagar University.<br>Currently Doing Project on Drone Autonomous Navigation.<br>
 
 
