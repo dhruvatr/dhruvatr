@@ -1,4 +1,4 @@
-Hiii,Dhruva kumar here
+Hiii,Dhruva here
 I am a Student at Dayananda Sagar University.<br>Currently Doing Project on Drone Autonomous Navigation.<br>
 
 
