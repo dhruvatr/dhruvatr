@@ -1,5 +1,5 @@
 Hii,Dhruva kumar heree
-I am a 2nd year Engineering Student at Dayananda Sagar University.<br>Currently Doing Project on Drone Autonomous Navigation.<br>
+I am a 2nd year Engineering Student at Dayananda Sagar University.<br>Currently Doing Project on Drone Autonomous Navigation System.<br>
 
 
 ## 🌐 Socials:
