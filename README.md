@@ -19,7 +19,7 @@
 💡 Believe in  : Learn continuously. Build consistently. Share openly.
 ⚡ Fun Fact    : Every merged PR makes me a better developer.
 🏎️ Passion     : Cars, Superbikes & Automotive Technology
-🌱 Goal        : Build AI that creates real-world impact and one day own a garage filled with dream cars and superbikes.
+🌱 Goal        : One day with a garage filled with dream cars and superbikes.
 ```
 
 ---
