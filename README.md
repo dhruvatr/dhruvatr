@@ -1,5 +1,36 @@
-Hiii, i am Dhruva kumar
-currently i am in 2nd year Engineering Student at Dayananda Sagar University.<br>Currently Doing Project on Drone Autonomous Navigation System.<br>
+# 👋 Hey, I'm Dhruva Kumar T R
+
+### 🚀 Open Source Contributor × Backend Developer × AI Builder
+
+💻 Passionate about building AI-powered applications and contributing to Open Source.
+
+---
+
+# 🖥️ Status Check
+
+```yaml
+📍 Location    : Bengaluru, Karnataka, India
+🎓 Degree      : B.Tech CSE (AI & ML) · Dayananda Sagar University · 8.62 CGPA · Class of 2028
+🚀 Open Source : 11 Merged Pull Requests
+🔭 Building    : AI-powered web applications & backend systems
+🧠 Exploring   : Generative AI, RAG, LangChain & Agentic AI
+💻 Backend     : FastAPI, Django & REST APIs
+🛠️ Tech Stack  : Python, C++, Docker, PostgreSQL & Git
+💡 Believe in  : Learn continuously. Build consistently. Share openly.
+⚡ Fun Fact    : Every merged PR makes me a better developer.
+🏎️ Passion     : Cars, Superbikes & Automotive Technology
+🌱 Goal        : Build AI that creates real-world impact and one day own a garage filled with dream cars and superbikes.
+```
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Learning Generative AI
+- 🧩 Building real-world AI projects
+- 🌍 Contributing to Python open source
+- 🐳 Learning Docker & Deployment
+- 📚 Practicing DSA in C++
 
 
 ## 🌐 Socials:
