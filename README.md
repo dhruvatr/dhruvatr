@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dhruva Kumar T R
+# 👋 Hey, I'm Dhruva Kumar 
 
 ### 🚀 Open Source Contributor × Backend Developer × AI Builder
 
