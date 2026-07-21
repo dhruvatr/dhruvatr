@@ -28,7 +28,7 @@
 
 - 🤖 Learning Generative AI
 - 🧩 Building real-world AI projects
-- 🌍 Contributing to Python open source
+- 🌍 Contributing to open source
 - 🐳 Learning Docker & Deployment
 - 📚 Practicing DSA in C++
 
