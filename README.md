@@ -48,14 +48,30 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🐯 My GitHub Contributions
+name: Generate Snake Animation
 
-<p align="center">
-  <img src="./assets/tiger.gif" alt="Tiger animation" width="900">
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-## 🐯 My Contribution Graph
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-<p align="center">
-  <img src="./assets/tiger.gif" alt="Running Tiger on GitHub Contribution Graph">
-</p>
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: dhruvatr
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
