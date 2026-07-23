@@ -47,3 +47,9 @@
 [![](https://komarev.com/ghpvc/?username=dhruvatr&icon=9&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐯 My GitHub Contributions
+
+<p align="center">
+  <img src="./assets/tiger.gif" alt="Tiger animation" width="900">
+</p>
