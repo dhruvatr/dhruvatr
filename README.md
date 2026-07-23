@@ -53,3 +53,9 @@
 <p align="center">
   <img src="./assets/tiger.gif" alt="Tiger animation" width="900">
 </p>
+
+## 🐯 My Contribution Graph
+
+<p align="center">
+  <img src="./assets/tiger.gif" alt="Running Tiger on GitHub Contribution Graph">
+</p>
