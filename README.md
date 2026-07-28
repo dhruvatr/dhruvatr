@@ -11,7 +11,7 @@
 ```yaml
 📍 Location    : Bengaluru, Karnataka, India
 🎓 Degree      : B.Tech CSE (AI & ML) · Dayananda Sagar University · 8.62 CGPA · Class of 2028
-🚀 Open Source : 11 Merged Pull Requests
+🚀 Open Source : 12 Merged Pull Requests
 🔭 Building    : AI-powered web applications & backend systems
 🧠 Exploring   : Generative AI, RAG, LangChain & Agentic AI
 💻 Backend     : FastAPI, Django & REST APIs
