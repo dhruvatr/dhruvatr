@@ -21,7 +21,13 @@
 🏎️ Passion     : Cars, Superbikes & Automotive Technology
 🌱 Goal        : One day with a garage filled with dream cars and superbikes.
 ```
+## 📊 GitHub Contributions
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvatr&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruvatr&theme=github_dark)
+
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruvatr&theme=github_dark)
 ---
 
 ## 🚀 Current Focus
