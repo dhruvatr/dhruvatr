@@ -21,11 +21,6 @@
 🏎️ Passion     : Cars, Superbikes & Automotive Technology
 🌱 Goal        : One day with a garage filled with dream cars and superbikes.
 
-## 📊 GitHub Activity
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvatr&theme=github_dark)
-
-![Merged Pull Requests](https://mergecard.vercel.app/api/contrib?user=dhruvatr)
 ```
 ## 📊 GitHub Contributions
 
