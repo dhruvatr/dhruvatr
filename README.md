@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dhruva Kumar 
 
-### 🚀 Open Source Contributor × Backend Developer × AI Builder
+### 🚀 Open Source Contributor × Backend Developer × Building Drone
 
 💻 Passionate about building AI-powered applications and contributing to Open Source.
 
