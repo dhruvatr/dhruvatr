@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dhruva Kumar
 
-### `AI × Backend × Open Source × Robotics`
+### `AI × Full-Stack × Open Source × Gen-AI`
 
 > Building intelligent systems, contributing to open source, and turning ideas into real-world software.
 
@@ -138,7 +138,7 @@ A web application designed to help students report, discover and recover lost it
 
 ---
 
-### ⚡ Digital Twin for Autonomous EVs
+### ⚡ Digital Twin for Autonomous EVs(Research-Paper)
 
 Research-oriented work exploring Digital Twin technology for autonomous electric vehicles, with emphasis on battery management and intelligent monitoring.
 
