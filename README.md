@@ -20,7 +20,7 @@ Dhruva Kumar
 ├── 🚀 Open Source: 20+ Merged PRs
 ├── 🤖 Focus: Generative AI + Backend Engineering
 ├── 🧩 Exploring: RAG, LLMs & Agentic AI
-├── 🐳 Infrastructure: Docker + PostgreSQL
+├── 🐳 Infrastructure: Docker
 ├── ⚡ Problem Solving: DSA in C++
 └── 🛸 Building: AI-powered systems & autonomous technologies
 ```
