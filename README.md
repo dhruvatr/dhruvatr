@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dhruva
+# 👋 Hey, I'm Dhruva kumar
 
 ### `AI × Full-Stack developer × Open Source × Gen-AI`
 
