@@ -2,7 +2,7 @@
 
 ### `AI × Full-Stack developer × Open Source Contributer × Gen-AI`
 
-> Building intelligent systems, contributing to open source, and turning ideas into real-world software.
+> Building intelligent systems, contributing to open source, and turning ideas into real-world Applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-dhruvatr-181717?style=for-the-badge\&logo=github)](https://github.com/dhruvatr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruva%20Kumar-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/dhruvakumartr)
