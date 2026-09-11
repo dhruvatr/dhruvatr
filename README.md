@@ -14,7 +14,7 @@
 
 ```text
 Dhruva Kumar
-├── 🎓 B.Tech CSE (AI & ML) @ Dayananda Sagar University
+├── 🎓 B.Tech CSE (AIML) @ Dayananda Sagar University
 ├── 📊 CGPA: 8.62 / 10
 ├── 🌍 Bengaluru, India
 ├── 🚀 Open Source: 20+ Merged PRs
