@@ -16,7 +16,7 @@
 Dhruva Kumar
 ├── 🎓 B.Tech CSE (AIML) @ Dayananda Sagar University
 ├── 📊 CGPA: 8.62 / 10
-├── 🌍 Bengaluru, India
+├── 🌍 Mysore, India
 ├── 🚀 Open Source: 20+ Merged PRs
 ├── 🤖 Focus: Generative AI + Backend Engineering
 ├── 🧩 Exploring: RAG, LLMs & Agentic AI
