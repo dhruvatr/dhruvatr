@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dhruva 
 
-### Full-Stack developer × Open Source Contributer × Gen-AI`
+### Full-Stack developer × Open Source Contributer × Generative-AI`
 
 > Building intelligent systems, contributing to open source, and turning ideas into real-world Applications.
 
