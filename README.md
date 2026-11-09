@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Dhruva
+# 👋 Hey, I'm Dhruva kumar
 
 ### Full-Stack developer × Open Source Contributer × Generative-AI`
 
