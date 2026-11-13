@@ -1,264 +1,386 @@
-# `> DHruva Kumar_`
+<!--
+  DHruva Kumar | Retro Hacker Terminal GitHub Profile
+  Theme: Black / Green / Terminal
+-->
 
-### SOFTWARE ENGINEER · OPEN SOURCE CONTRIBUTOR · AI BUILDER
+<div align="center">
 
-**Engineering intelligent systems. Contributing to the future of software.**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:001a0a,50:003b20,100:000000&text=DHruva%20KUMAR&fontColor=00FF88&fontSize=55&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20OPEN%20SOURCE%20CONTRIBUTOR&descAlignY=68&descSize=13&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Initializing+Dhruva's+Developer+Environment...;Backend+Engineering+%7C+Generative+AI;Nearly+30+Merged+Open+Source+PRs;Building+Systems.+Breaking+Limits.+Fixing+Bugs.;Target%3A+Google+Summer+of+Code+2027" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/dhruvatr)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/dhruvakumartr)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](https://dhruvakumar2006.netlify.app)
+
+</div>
+
+---
+
+## `root@dhruva:~# whoami`
+
+```bash
+┌─────────────────────────────────────────────────────────┐
+│                  DEVELOPER INFORMATION                   │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  NAME       : Dhruva Kumar                              │
+│  ROLE       : Full-Stack Developer                      │
+│  EDUCATION  : B.Tech CSE (AI & ML)                      │
+│  UNIVERSITY : Dayananda Sagar University                 │
+│  CGPA       : 8.62 / 10                                  │
+│  LOCATION   : India                                     │
+│  STATUS     : Building & Contributing                    │
+│                                                         │
+│  SPECIALIZATION:                                        │
+│  > Python Backend Engineering                           │
+│  > Generative AI & Agentic Systems                      │
+│  > Open Source Development                              │
+│  > IoT & Autonomous Technologies                        │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+> Building intelligent systems, exploring complex codebases, and contributing to software that makes a difference.
+
+---
+
+## `root@dhruva:~# ./open_source.sh`
+
+<details open>
+<summary><b>⚡ OPEN SOURCE CONTRIBUTION LOG</b></summary>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   HELLO, WORLD!                                              │
-│                                                              │
-│   I'm Dhruva Kumar, a Computer Science student passionate    │
-│   about backend engineering, open source, AI systems,        │
-│   and building technology that solves real-world problems.  │
-│                                                              │
-│   CURRENT STATUS: Building | Learning | Contributing         │
-│   LOCATION: India                                            │
-│   UNIVERSITY: Dayananda Sagar University                     │
-│   CGPA: 8.62 / 10                                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+[+] Initializing open-source contribution tracker...
+
+[OK] GitHub repositories explored
+[OK] Multiple organizations contributed to
+[OK] Microsoft ecosystem contributions
+[OK] AOSSIE contributions
+[OK] Python ecosystem contributions
+
+--------------------------------------------------
+                  CONTRIBUTION STATS
+--------------------------------------------------
+
+    MERGED PULL REQUESTS : NEARLY 30
+    CONTRIBUTION AREAS   : BACKEND / BUG FIXES
+                           TESTING / DOCUMENTATION
+    DEVELOPMENT MODE     : ACTIVE
+    NEXT TARGET          : GSoC 2027
+
+--------------------------------------------------
 ```
+
+### Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvatr&bg_color=000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=OPEN%20SOURCE%20ACTIVITY" width="100%"/>
+
+### GitHub Contribution Grid
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvatr&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvatr&layout=compact&hide_border=true&bg_color=000000&title_color=00ff88&text_color=ffffff" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=dhruvatr&theme=black-ice&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="100%"/>
+
+</details>
+
 
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/dhruvatr)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruvakumartr)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhruvakumar2006.netlify.app)
+---
+
+## `root@dhruva:~# ls ./engineering_stack`
+
+```text
+ENGINEERING STACK
+│
+├── LANGUAGES/
+│   ├── Python
+│   ├── C
+│   ├── C++
+│   └── JavaScript
+│
+├── BACKEND/
+│   ├── FastAPI
+│   ├── Django
+│   └── REST APIs
+│
+├── FRONTEND/
+│   ├── React
+│   ├── HTML
+│   └── CSS
+│
+├── AI_SYSTEMS/
+│   ├── Generative AI
+│   ├── LLMs
+│   ├── RAG
+│   ├── LangChain
+│   ├── LangGraph
+│   └── Agentic AI
+│
+├── DATABASES/
+│   ├── PostgreSQL
+│   ├── MySQL
+│   └── MongoDB
+│
+└── INFRASTRUCTURE/
+    ├── Docker
+    ├── Git
+    └── GitHub
+```
+
+### Installed Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,fastapi,django,react,html,css,postgres,mysql,mongodb,docker,git,github&theme=dark" />
+
+</p>
 
 ---
 
-# 01 / OPEN SOURCE COMMAND CENTER
+## `root@dhruva:~# ./projects --all`
 
-### `CONTRIBUTION_STATUS: ACTIVE`
+### `[01] HONEY_CHAIN.exe`
 
-<details>
-<summary><b>Open Source Engineering Overview</b></summary>
+**Smart Beehive Monitoring & Honey Traceability**
 
-- Nearly 30 merged pull requests.
-- Contributions across Microsoft, AOSSIE and other repositories.
-- Bug fixes, documentation, testing and feature improvements.
-- Experience navigating large codebases and collaborating with maintainers.
+```text
+PROJECT TYPE : IoT + SMART AGRICULTURE
+STATUS       : DEVELOPMENT
+```
 
-</details>
+An IoT-powered beehive monitoring and honey traceability system.
 
-### Contribution Activity
+**SYSTEM MODULES**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvatr&theme=github-compact&hide_border=true)
-
-### GitHub Contribution Map
-
-![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
-### Engineering Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvatr&show_icons=true&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dhruvatr&theme=github-dark-blue&hide_border=true)
-
----
-
-# 02 / ENGINEERING ARSENAL
-
-| ENGINEERING DOMAIN | TECHNOLOGIES |
-|---|---|
-| Languages | Python · C · C++ · JavaScript |
-| Backend | FastAPI · Django · REST APIs |
-| Frontend | React · HTML · CSS |
-| AI Systems | LLMs · RAG · LangChain · LangGraph |
-| Data | NumPy · Pandas · Scikit-learn |
-| Databases | PostgreSQL · MySQL · MongoDB |
-| Infrastructure | Docker · Git · GitHub |
-| Hardware | ESP32 · Raspberry Pi 5 · IoT |
-
----
-
-# 03 / SELECTED ENGINEERING PROJECTS
-
-### [01] HONEY CHAIN
-`IoT × SMART AGRICULTURE × TRACEABILITY`
-
-**Smart Beehive Monitoring & Honey Supply Chain**
-
-An IoT-based platform combining environmental monitoring, acoustic analysis and QR-based traceability.
-
-**SYSTEM COMPONENTS**
-- ESP32-based hive monitoring.
+- ESP32-based beehive monitoring.
 - Temperature and humidity sensors.
 - HX711 load-cell integration.
-- Bee acoustic monitoring and frequency analysis.
-- QR-based tracking from hive to consumer.
-- Harvesting → Processing → Packaging → Distribution.
+- Acoustic monitoring of bee activity.
+- Bee audio frequency analysis.
+- QR-based honey traceability.
+- Hive → Harvest → Processing → Packaging → Distribution → Consumer.
 
-`ESP32` `IoT` `Python` `Sensors` `QR TRACEABILITY`
+`ESP32` `IoT` `PYTHON` `SENSORS` `QR TRACEABILITY`
 
 ---
 
-### [02] AI CAREER PATH PREDICTION
-`ARTIFICIAL INTELLIGENCE × WEB ENGINEERING`
+### `[02] AI_CAREER_PREDICTION.exe`
 
-An intelligent career recommendation platform that uses academic performance, technical skills, programming knowledge and interests to recommend potential career paths.
+**AI Career Path Prediction System**
 
-**SYSTEM COMPONENTS**
-- Decision Tree and Random Forest models.
-- Skill-based recommendations.
+```text
+PROJECT TYPE : ARTIFICIAL INTELLIGENCE
+STATUS       : DEPLOYED
+```
+
+An intelligent career recommendation platform that analyzes academic performance, technical skills, programming knowledge and interests.
+
+**SYSTEM MODULES**
+
+- Decision Tree and Random Forest.
+- Skill-based career recommendations.
 - Interactive web application.
 - Deployed application.
 
-[EXPLORE PROJECT](https://ai-career-path-prediction.netlify.app)
+[ACCESS LIVE APPLICATION →](https://ai-career-path-prediction.netlify.app)
 
-`PYTHON` `SCIKIT-LEARN` `WEB DEVELOPMENT`
+`PYTHON` `MACHINE LEARNING` `WEB DEVELOPMENT`
 
 ---
 
-### [03] FINDONCAMPUS
-`FULL STACK × STUDENT TECHNOLOGY`
+### `[03] FINDONCAMPUS.exe`
 
-A student-oriented lost-and-found platform for reporting, discovering and recovering misplaced campus belongings.
+**Student Lost & Found Platform**
 
-**SYSTEM COMPONENTS**
+```text
+PROJECT TYPE : FULL STACK WEB APPLICATION
+STATUS       : ACTIVE DEVELOPMENT
+```
+
+A campus-focused application for reporting, discovering and recovering lost belongings.
+
+**SYSTEM MODULES**
+
 - Lost and found reporting.
 - Image uploads.
 - Item discovery.
-- Planned item verification.
+- Planned verification workflow.
 
-[EXPLORE PROJECT](https://findoncampus.lovable.app)
+[ACCESS APPLICATION →](https://findoncampus.lovable.app)
 
-`FULL STACK` `DATABASE` `WEB APPLICATION`
+`FULL STACK` `DATABASE` `WEB DEVELOPMENT`
 
 ---
 
-### [04] AUTONOMOUS ROBOTICS
-`ROBOTICS × EMBEDDED SYSTEMS`
+### `[04] AUTONOMOUS_ROBOTICS.exe`
 
-Working with Team Roxx Air Vehicles on autonomous systems and the Autonomy Stack.
+**Autonomous Systems — Team Roxx Air Vehicles**
 
-**SYSTEM COMPONENTS**
+```text
+PROJECT TYPE : ROBOTICS & EMBEDDED SYSTEMS
+HARDWARE     : RASPBERRY PI 5
+```
+
+Working on the Autonomy Stack and integrating hardware and software for autonomous systems.
+
+**SYSTEM MODULES**
+
 - Raspberry Pi 5 integration.
-- Hardware and software integration.
 - Autonomous system development.
+- Hardware and software integration.
 - Robotics and navigation.
 
 `PYTHON` `RASPBERRY PI` `ROBOTICS`
 
 ---
 
-### [05] DIGITAL TWIN FOR AUTONOMOUS EVs
-`RESEARCH × IoT × SIMULATION`
+### `[05] DIGITAL_TWIN_EV.exe`
 
-Research-oriented exploration of Digital Twin technology for autonomous electric vehicles, focusing on battery monitoring and intelligent systems.
+**Digital Twin for Autonomous Electric Vehicles**
+
+```text
+PROJECT TYPE : RESEARCH & SIMULATION
+DOMAIN       : EV + IoT
+```
+
+Research-oriented exploration of Digital Twin technology for autonomous electric vehicles, with a focus on battery management and intelligent monitoring.
 
 `DIGITAL TWIN` `EV` `IoT` `SIMULATION`
 
 ---
 
-# 04 / CURRENTLY IN THE LAB
+## `root@dhruva:~# cat ./current_learning.json`
 
-```python
-class Dhruva:
-
-    def __init__(self):
-        self.focus = {
-            "backend": ["Python", "FastAPI", "Django"],
-            "ai": ["LLMs", "RAG", "Agentic AI"],
-            "engineering": ["Docker", "System Design"],
-            "open_source": ["GitHub", "Testing", "Code Reviews"],
-            "problem_solving": ["C++", "DSA"]
-        }
-
-    def mission(self):
-        return "Build software that makes a difference."
-
-
-developer = Dhruva()
-print(developer.mission())
+```json
+{
+  "currently_learning": {
+    "artificial_intelligence": [
+      "Generative AI",
+      "LLMs",
+      "RAG",
+      "LangChain",
+      "LangGraph",
+      "Agentic AI"
+    ],
+    "backend_engineering": [
+      "Advanced Python",
+      "FastAPI",
+      "Django",
+      "REST APIs",
+      "System Design"
+    ],
+    "software_engineering": [
+      "Docker",
+      "Testing",
+      "Debugging",
+      "CI/CD",
+      "Open Source"
+    ],
+    "problem_solving": [
+      "Data Structures",
+      "Algorithms",
+      "C++",
+      "Python"
+    ]
+  }
+}
 ```
 
 ---
 
-# 05 / ACHIEVEMENTS & RECOGNITION
+## `root@dhruva:~# ./achievements.sh`
 
-| ACHIEVEMENT | RESULT |
+```text
+[ACHIEVEMENT UNLOCKED]
+
+[01] ROBOSOCCER
+     RESULT : 1ST PLACE
+     PRIZE  : INR 50,000
+
+[02] OPEN SOURCE
+     RESULT : NEARLY 30 MERGED PRs
+
+[03] SMART INDIA HACKATHON
+     PARTICIPATION : 2025 & 2026
+
+[04] VIT CHENNAI HACKATHON
+     STATUS : SELECTED - 2026
+
+[05] IEEE
+     SOCIETY : COMPUTATIONAL INTELLIGENCE
+```
+
+---
+
+## `root@dhruva:~# ./mission_2027.sh`
+
+```text
+┌───────────────────────────────────────────────────────┐
+│                                                       │
+│               UPCOMING MISSION                        │
+│                                                       │
+│                 GSoC 2027                              │
+│                                                       │
+│  [01] Contribute to established organizations        │
+│  [02] Understand large software codebases             │
+│  [03] Build meaningful backend contributions         │
+│  [04] Collaborate with mentors                        │
+│  [05] Develop production-grade applications           │
+│  [06] Prepare a strong GSoC proposal                   │
+│                                                       │
+│               STATUS: IN PROGRESS                     │
+│                                                       │
+└───────────────────────────────────────────────────────┘
+```
+
+---
+
+## `root@dhruva:~# ./contact.sh`
+
+```bash
+$ echo "Let's build something meaningful."
+```
+
+| CHANNEL | LINK |
 |---|---|
-| DSU Robo Soccer | 🥇 1st Place |
-| Robo Soccer Prize | ₹50,000 |
-| Open Source | Nearly 30 merged PRs |
-| Smart India Hackathon | 2025 & 2026 |
-| VIT Chennai Hackathon | Selected, 2026 |
-| IEEE | Computational Intelligence Society |
+| GitHub | [github.com/dhruvatr](https://github.com/dhruvatr) |
+| LinkedIn | [Connect with me](https://linkedin.com/in/dhruvakumartr) |
+| Portfolio | [Visit portfolio](https://dhruvakumar2006.netlify.app) |
+| Instagram | [Follow](https://instagram.com/dhruvakumartr) |
+| YouTube | [Dhruva Vlogs](https://youtube.com/@DhruvaVlogs) |
+| Email | dhruvadhruvakumar160@gmail.com |
 
 ---
 
-# 06 / MISSION 2027
-
-### `TARGET: GOOGLE SUMMER OF CODE`
+<div align="center">
 
 ```text
-2026                         2027
-  │                            │
-  ▼                            ▼
-Backend Engineering      Advanced Contributions
-  │                            │
-  ▼                            ▼
-Production Projects      Mentor Collaboration
-  │                            │
-  ▼                            ▼
-Open Source PRs          GSoC Proposal
-  │                            │
-  ▼                            ▼
-Codebase Understanding   Open Source Impact
-  │                            │
-  └───────────────┬────────────┘
-                  ▼
-          BETTER ENGINEER.
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  SYSTEM MESSAGE:                                    │
+│                                                     │
+│  GREAT ENGINEERING IS NEVER FINISHED.               │
+│                                                     │
+│  LEARN. BUILD. DEBUG. CONTRIBUTE. REPEAT.           │
+│                                                     │
+│  [ SYSTEM STATUS: ALWAYS BUILDING ]                 │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
-**UPCOMING OBJECTIVES**
+<img src="https://komarev.com/ghpvc/?username=dhruvatr&style=for-the-badge&color=00ff88&label=PROFILE+VISITORS"/>
 
-- [ ] Contribute to established open-source organizations.
-- [ ] Develop production-grade backend applications.
-- [ ] Build advanced RAG and multi-agent systems.
-- [ ] Improve software architecture and system design.
-- [ ] Prepare a strong GSoC 2027 application.
-- [ ] Continue building IoT and autonomous systems.
+**`DHruva@github:~$` END_OF_SESSION**
 
----
-
-# 07 / BEYOND THE TERMINAL
-
-```text
-INTERESTS = [
-    "Open Source Engineering",
-    "Artificial Intelligence",
-    "Robotics & Autonomous Systems",
-    "Automotive Technology",
-    "Building Real-World Products"
-]
-```
-
----
-
-# 08 / ESTABLISH CONNECTION
-
-**Have an interesting project, open-source opportunity, or engineering idea? Let's connect.**
-
-[![GitHub](https://img.shields.io/badge/GITHUB-Explore_My_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruvatr)
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruvakumartr)
-
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/dhruvakumartr)
-
-[![YouTube](https://img.shields.io/badge/YOUTUBE-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@DhruvaVlogs)
-
-📧 dhruvadhruvakumar160@gmail.com
-
----
-
-<p align="center">
-
-### `BUILD. CONTRIBUTE. INNOVATE.`
-
-**Engineering the future, one commit at a time.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=dhruvatr&style=flat-square&color=blue)
-
-</p>
+</div>
