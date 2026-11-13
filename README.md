@@ -1,335 +1,264 @@
-# 👋 Hey, I'm Dhruva kumar
+# `> DHruva Kumar_`
 
-### Full-Stack developer × Open Source Contributer × Generative-AI`
+### SOFTWARE ENGINEER · OPEN SOURCE CONTRIBUTOR · AI BUILDER
 
-> Building intelligent systems, contributing to open source, and turning ideas into real-world Applications.
-
-[![GitHub](https://img.shields.io/badge/GitHub-dhruvatr-181717?style=for-the-badge\&logo=github)](https://github.com/dhruvatr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruva%20Kumar-0A66C2?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/dhruvakumartr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://dhruvakumar2006.netlify.app)
-
----
-
-## 🧠 About Me
+**Engineering intelligent systems. Contributing to the future of software.**
 
 ```text
-Dhruva Kumar
-├── 🎓 B.Tech CSE (AIML) @ Dayananda Sagar University
-├── 📊 CGPA: 8.62 / 10
-├── 🌍 Mysore, India
-├── 🚀 Open Source: 25+ Merged PRs
-├── 🤖 Focus: Generative AI + Backend Engineering
-├── 🧩 Exploring: RAG, LLMs & Agentic AI
-├── 🐳 Infrastructure: Docker
-├── ⚡ Problem Solving: DSA in C++
-└── 🛸 Building: AI-powered systems & autonomous technologies
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   HELLO, WORLD!                                              │
+│                                                              │
+│   I'm Dhruva Kumar, a Computer Science student passionate    │
+│   about backend engineering, open source, AI systems,        │
+│   and building technology that solves real-world problems.  │
+│                                                              │
+│   CURRENT STATUS: Building | Learning | Contributing         │
+│   LOCATION: India                                            │
+│   UNIVERSITY: Dayananda Sagar University                     │
+│   CGPA: 8.62 / 10                                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-I enjoy working at the intersection of **Artificial Intelligence, backend engineering and real-world systems**.
-
-Currently, I'm focused on becoming a stronger engineer by building projects, solving DSA problems, contributing to open source and exploring modern AI architectures.
-
----
-
-## 🚀 What I'm Building
-
-| Area             | Current Focus                         |
-| ---------------- | ------------------------------------- |
-| 🤖 Generative AI | LLMs, RAG & AI applications           |
-| 🧠 Agentic AI    | LangChain, LangGraph & AI agents      |
-| ⚙️ Backend       | FastAPI, Django & REST APIs           |
-| 🗄️ Databases    | PostgreSQL & SQL                      |
-| 🐳 DevOps        | Docker & deployment                   |
-| 💻 DSA           | C++ & problem solving                 |
-| 🌍 Open Source   | Real-world organization contributions |
-| 🛸 Robotics      | Autonomous systems & drones           |
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/dhruvatr)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruvakumartr)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhruvakumar2006.netlify.app)
 
 ---
 
-## 🌟 Open Source Journey
+# 01 / OPEN SOURCE COMMAND CENTER
 
-```text
-                    OPEN SOURCE
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │   20+ Merged PRs    │
-              └──────────┬──────────┘
-                         │
-             ┌───────────┼───────────┐
-             ▼           ▼           ▼
-          Bug Fixes   Docs/MD      Features
-             │           │           │
-             └───────────┼───────────┘
-                         ▼
-                  Learn → Build
-                         │
-                         ▼
-                    Contribute
-                         │
-                         ▼
-                     Repeat 🔁
-```
+### `CONTRIBUTION_STATUS: ACTIVE`
 
-### 📈 Contribution Mindset
+<details>
+<summary><b>Open Source Engineering Overview</b></summary>
 
-> **Don't just use open source. Understand it. Improve it. Give back to it.**
+- Nearly 30 merged pull requests.
+- Contributions across Microsoft, AOSSIE and other repositories.
+- Bug fixes, documentation, testing and feature improvements.
+- Experience navigating large codebases and collaborating with maintainers.
 
-My goal is to move from small contributions toward **meaningful contributions to large open-source organizations**.
+</details>
+
+### Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvatr&theme=github-compact&hide_border=true)
+
+### GitHub Contribution Map
+
+![Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+### Engineering Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvatr&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dhruvatr&theme=github-dark-blue&hide_border=true)
 
 ---
 
-## 🛠️ My Engineering Stack
+# 02 / ENGINEERING ARSENAL
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-### Backend & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
-
-### AI / Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-
-### Databases & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+| ENGINEERING DOMAIN | TECHNOLOGIES |
+|---|---|
+| Languages | Python · C · C++ · JavaScript |
+| Backend | FastAPI · Django · REST APIs |
+| Frontend | React · HTML · CSS |
+| AI Systems | LLMs · RAG · LangChain · LangGraph |
+| Data | NumPy · Pandas · Scikit-learn |
+| Databases | PostgreSQL · MySQL · MongoDB |
+| Infrastructure | Docker · Git · GitHub |
+| Hardware | ESP32 · Raspberry Pi 5 · IoT |
 
 ---
 
-## 🔥 Featured Projects
+# 03 / SELECTED ENGINEERING PROJECTS
 
-### 🤖 AI Career Path Prediction
+### [01] HONEY CHAIN
+`IoT × SMART AGRICULTURE × TRACEABILITY`
 
-An AI-powered application designed to help users explore suitable career paths based on their skills and interests.
+**Smart Beehive Monitoring & Honey Supply Chain**
 
-**Focus:** AI • Web Development • Prediction • Deployment
+An IoT-based platform combining environmental monitoring, acoustic analysis and QR-based traceability.
 
----
+**SYSTEM COMPONENTS**
+- ESP32-based hive monitoring.
+- Temperature and humidity sensors.
+- HX711 load-cell integration.
+- Bee acoustic monitoring and frequency analysis.
+- QR-based tracking from hive to consumer.
+- Harvesting → Processing → Packaging → Distribution.
 
-### 🛸 Autonomous Drone Navigation
-
-Working on an intelligent drone navigation system combining software, AI and autonomous decision-making.
-
-**Focus:** Robotics • Computer Vision • Autonomous Systems
-
----
-
-### 🔎 Campus Lost & Found
-
-A web application designed to help students report, discover and recover lost items within a campus environment.
-
-**Focus:** Full Stack • Backend • Database
+`ESP32` `IoT` `Python` `Sensors` `QR TRACEABILITY`
 
 ---
 
-### ⚡ Digital Twin for Autonomous EVs(Research-Paper)
+### [02] AI CAREER PATH PREDICTION
+`ARTIFICIAL INTELLIGENCE × WEB ENGINEERING`
 
-Research-oriented work exploring Digital Twin technology for autonomous electric vehicles, with emphasis on battery management and intelligent monitoring.
+An intelligent career recommendation platform that uses academic performance, technical skills, programming knowledge and interests to recommend potential career paths.
 
-**Focus:** Digital Twin • EV • IoT • Simulation
+**SYSTEM COMPONENTS**
+- Decision Tree and Random Forest models.
+- Skill-based recommendations.
+- Interactive web application.
+- Deployed application.
+
+[EXPLORE PROJECT](https://ai-career-path-prediction.netlify.app)
+
+`PYTHON` `SCIKIT-LEARN` `WEB DEVELOPMENT`
 
 ---
 
-## 🧪 Currently Learning
+### [03] FINDONCAMPUS
+`FULL STACK × STUDENT TECHNOLOGY`
+
+A student-oriented lost-and-found platform for reporting, discovering and recovering misplaced campus belongings.
+
+**SYSTEM COMPONENTS**
+- Lost and found reporting.
+- Image uploads.
+- Item discovery.
+- Planned item verification.
+
+[EXPLORE PROJECT](https://findoncampus.lovable.app)
+
+`FULL STACK` `DATABASE` `WEB APPLICATION`
+
+---
+
+### [04] AUTONOMOUS ROBOTICS
+`ROBOTICS × EMBEDDED SYSTEMS`
+
+Working with Team Roxx Air Vehicles on autonomous systems and the Autonomy Stack.
+
+**SYSTEM COMPONENTS**
+- Raspberry Pi 5 integration.
+- Hardware and software integration.
+- Autonomous system development.
+- Robotics and navigation.
+
+`PYTHON` `RASPBERRY PI` `ROBOTICS`
+
+---
+
+### [05] DIGITAL TWIN FOR AUTONOMOUS EVs
+`RESEARCH × IoT × SIMULATION`
+
+Research-oriented exploration of Digital Twin technology for autonomous electric vehicles, focusing on battery monitoring and intelligent systems.
+
+`DIGITAL TWIN` `EV` `IoT` `SIMULATION`
+
+---
+
+# 04 / CURRENTLY IN THE LAB
 
 ```python
-learning = {
-    "AI": [
-        "Generative AI",
-        "LLMs",
-        "RAG",
-        "LangChain",
-        "LangGraph",
-        "Agentic AI"
-    ],
+class Dhruva:
 
-    "Engineering": [
-        "System Design",
-        "Docker",
-        "Deployment",
-        "Computer Networks"
-    ],
+    def __init__(self):
+        self.focus = {
+            "backend": ["Python", "FastAPI", "Django"],
+            "ai": ["LLMs", "RAG", "Agentic AI"],
+            "engineering": ["Docker", "System Design"],
+            "open_source": ["GitHub", "Testing", "Code Reviews"],
+            "problem_solving": ["C++", "DSA"]
+        }
 
-    "Problem Solving": [
-        "Data Structures",
-        "Algorithms",
-        "Competitive Programming"
-    ]
-}
+    def mission(self):
+        return "Build software that makes a difference."
+
+
+developer = Dhruva()
+print(developer.mission())
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# 05 / ACHIEVEMENTS & RECOGNITION
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvatr&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhruvatr&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhruvatr&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruvatr&theme=github-dark-blue&hide_border=true" />
-</p>
+| ACHIEVEMENT | RESULT |
+|---|---|
+| DSU Robo Soccer | 🥇 1st Place |
+| Robo Soccer Prize | ₹50,000 |
+| Open Source | Nearly 30 merged PRs |
+| Smart India Hackathon | 2025 & 2026 |
+| VIT Chennai Hackathon | Selected, 2026 |
+| IEEE | Computational Intelligence Society |
 
 ---
 
-## 🐍 Contribution Activity
+# 06 / MISSION 2027
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🖥️ Developer Terminal
-
-```bash
-$ whoami
-
-dhruva@github:~$ cat developer.json
-
-{
-  "name": "Dhruva Kumar",
-  "role": "AI & Backend Developer",
-  "location": "Bengaluru, India",
-
-  "currently_building": [
-    "AI-powered applications",
-    "Backend systems",
-    "Autonomous technologies"
-  ],
-
-  "currently_learning": [
-    "Generative AI",
-    "RAG",
-    "Agentic AI",
-    "System Design"
-  ],
-
-  "open_source": {
-    "merged_prs": "20+",
-    "philosophy": "Learn → Build → Contribute"
-  },
-
-  "long_term_goal":
-    "Build intelligent systems that solve real-world problems."
-}
-```
-
----
-
-## 🏆 Beyond Code
+### `TARGET: GOOGLE SUMMER OF CODE`
 
 ```text
-🏆 Robosoccer — 1st Place
-💰 Prize — ₹50,000
-🧠 Hackathons — Multiple projects & ideas
-🌍 Open Source — 20+ merged PRs
-🛸 Robotics — Autonomous systems
-🚗 Automotive — Cars, superbikes & emerging technology
+2026                         2027
+  │                            │
+  ▼                            ▼
+Backend Engineering      Advanced Contributions
+  │                            │
+  ▼                            ▼
+Production Projects      Mentor Collaboration
+  │                            │
+  ▼                            ▼
+Open Source PRs          GSoC Proposal
+  │                            │
+  ▼                            ▼
+Codebase Understanding   Open Source Impact
+  │                            │
+  └───────────────┬────────────┘
+                  ▼
+          BETTER ENGINEER.
 ```
+
+**UPCOMING OBJECTIVES**
+
+- [ ] Contribute to established open-source organizations.
+- [ ] Develop production-grade backend applications.
+- [ ] Build advanced RAG and multi-agent systems.
+- [ ] Improve software architecture and system design.
+- [ ] Prepare a strong GSoC 2027 application.
+- [ ] Continue building IoT and autonomous systems.
 
 ---
 
-## 🎯 2026 → 2027 Roadmap
+# 07 / BEYOND THE TERMINAL
 
 ```text
-                 2026
-                  │
-        ┌─────────┼─────────┐
-        ▼         ▼         ▼
-      RAG      Backend    Open Source
-        │         │         │
-        └─────────┼─────────┘
-                  ▼
-             Agentic AI
-                  │
-                  ▼
-             AI Projects
-                  │
-                  ▼
-            System Design
-                  │
-                  ▼
-                 🚀
+INTERESTS = [
+    "Open Source Engineering",
+    "Artificial Intelligence",
+    "Robotics & Autonomous Systems",
+    "Automotive Technology",
+    "Building Real-World Products"
+]
 ```
 
-**Next targets:**
-
-* [ ] Build production-grade RAG applications
-* [ ] Build multi-agent AI systems
-* [ ] Contribute to major open-source organizations
-* [ ] Improve DSA & problem solving
-* [ ] Deploy scalable backend systems
-* [ ] Build advanced robotics/AI projects
-* [ ] Explore Digital Twins + AI
-
 ---
 
-## 💭 Developer Philosophy
+# 08 / ESTABLISH CONNECTION
 
-> **Code is not just about solving today's problem.
-> It's about building something better than yesterday.**
+**Have an interesting project, open-source opportunity, or engineering idea? Let's connect.**
 
-### `Learn → Build → Break → Fix → Contribute → Repeat`
+[![GitHub](https://img.shields.io/badge/GITHUB-Explore_My_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhruvatr)
 
----
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruvakumartr)
 
-## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/dhruvakumartr)
 
-<p align="center">
+[![YouTube](https://img.shields.io/badge/YOUTUBE-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@DhruvaVlogs)
 
-<a href="https://linkedin.com/in/dhruvakumartr">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/dhruvakumartr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@DhruvaVlogs">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:dhruvadhruvakumar160@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+📧 dhruvadhruvakumar160@gmail.com
 
 ---
 
 <p align="center">
 
-### ⭐ If you find my work interesting, consider following me!
+### `BUILD. CONTRIBUTE. INNOVATE.`
 
-**Building today. Contributing tomorrow. Engineering for the future. 🚀**
+**Engineering the future, one commit at a time.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhruvatr&style=flat-square&color=blue)
 
 </p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dhruvatr\&style=flat-square\&color=blue)
-
-<!--
-README designed for Dhruva Kumar
-AI × Backend × Open Source × Robotics
--->
