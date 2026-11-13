@@ -47,6 +47,12 @@
 
 ---
 
+
+## `root@dhruva:~# git log --open-source`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvatr&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true&custom_title=OPEN%20SOURCE%20CONTRIBUTION%20ACTIVITY" width="100%"/>
+
+
 ## `root@dhruva:~# ./open_source.sh`
 
 <details open>
